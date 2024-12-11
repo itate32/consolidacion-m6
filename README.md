@@ -1,3 +1,5 @@
+Para verlo online, visita: https://rawg-api-consolidacion-m6.netlify.app/
+
 # consolidacionm6-app
 
 ## Project setup
